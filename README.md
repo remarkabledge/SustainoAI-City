@@ -36,18 +36,18 @@ No JavaScript: fully static, no build step required
 
 File Structure
 text
-index.html      # Home page
-about.html      # Mission and sustainability goals
-features.html   # Smart solutions showcase
-news.html       # Latest updates
-contact.html    # Contact form and team info
-styles.css      # Shared stylesheet for all pages
-Team
-Iqra Nadeem (ID: 19747): Project Manager
+index.html      # Home page <br>
+about.html      # Mission and sustainability goals <br>
+features.html   # Smart solutions showcase <br>
+news.html       # Latest updates <br>
+contact.html    # Contact form and team info <br>
+styles.css      # Shared stylesheet for all pages <br> <br>
+Team <br>
+Iqra Nadeem (ID: 19747): Project Manager <br>
 
-Liyan Fadi (ID: 19757): Lead Developer
+Liyan Fadi (ID: 19757): Lead Developer <br>
 
-Ebtesam Qasem (ID: 19872): UI/UX Designer
+Ebtesam Qasem (ID: 19872): UI/UX Designer <br>
 
 How to Use
 Download or clone the project folder.
