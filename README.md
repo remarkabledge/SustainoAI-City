@@ -1,46 +1,62 @@
-# SustainoAI City
+<b>SustainoAI City</b> <br>
+A multi-page static website for a smart sustainable city concept, built with HTML and CSS. The site presents AI and IoT-driven solutions for urban sustainability, including waste management, air quality monitoring, water conservation, and smart infrastructure.
 
-SustainoAI City is a static multi-page website that presents a smart city concept built around AI and IoT. The site covers solutions like waste segregation, air quality monitoring, water conservation, and smart infrastructure.
+Pages
+Home (index.html): Hero section with a call-to-action and three highlight cards showcasing key solutions.
 
-## Pages
+About (about.html): Mission statement aligned with UN SDGs, plus mission cards for waste, air, and water.
 
-- **index.html** : Home page with hero section and three highlight cards.
-- **about.html** : Mission statement tied to UN SDGs, with cards on waste, air, and water.
-- **features.html** : Six solution cards with images, covering waste segregation, air quality, parking, water dispensers, irrigation, and street lighting.
-- **news.html** : Updates and announcements.
-- **contact.html** : Contact form plus team member details.
+Features (features.html): Six smart solution cards with images, covering waste segregation, air quality, parking, water dispensers, irrigation, and street lighting.
 
-## What's Inside
+News (news.html): Latest updates and announcements from the project.
 
-- Shared header and nav bar across every page, with the current page highlighted.
-- Flexbox card layouts that wrap on smaller screens.
-- Hero banner with a gradient overlay and CTA button.
-- Cards lift slightly on hover.
-- Contact form with name, email, and message fields.
-- Team section listing members with IDs and roles.
+Contact (contact.html): Contact form and team member profiles with IDs and roles.
 
-## Built With
+Features
+Multi-page navigation: consistent header and nav bar across all pages, with active-page highlighting.
 
-- HTML5
-- CSS3 (flexbox, transitions, media queries)
-- No JavaScript, no build step
+Responsive layout: flexbox-based card grids and a mobile media query for smaller screens.
 
-## Files
+Hero banner: full-width gradient overlay image with headline and CTA button.
 
+Card-based UI: reusable card styling for highlights, mission, features, news, and team sections.
 
-## Team
+Hover animations: cards lift on hover for a modern interactive feel.
 
-- Iqra Nadeem (ID: 19747) : Project Manager
-- Liyan Fadi (ID: 19757) : Lead Developer
-- Ebtesam Qasem (ID: 19872) : UI/UX Designer
+Contact form: name, email, and message fields with required validation.
 
-## Running It
+Team section: displays project members with their IDs and roles.
 
-1. Download or clone the folder.
-2. Open index.html in a browser.
-3. Use the top menu to move between pages.
+Tech Stack
+HTML5: structure and semantic sections
 
-## Notes
+CSS3: styling, flexbox layout, transitions, and media queries
 
-- Feature images are pulled from external URLs.
-- No server or install needed, it runs straight from the file.
+No JavaScript: fully static, no build step required
+
+File Structure
+text
+index.html      # Home page
+about.html      # Mission and sustainability goals
+features.html   # Smart solutions showcase
+news.html       # Latest updates
+contact.html    # Contact form and team info
+styles.css      # Shared stylesheet for all pages
+Team
+Iqra Nadeem (ID: 19747): Project Manager
+
+Liyan Fadi (ID: 19757): Lead Developer
+
+Ebtesam Qasem (ID: 19872): UI/UX Designer
+
+How to Use
+Download or clone the project folder.
+
+Open index.html in any modern web browser.
+
+Navigate between pages using the top menu.
+
+Notes
+All feature images are loaded from external URLs.
+
+No installation or server is needed. The site runs directly in the browser.
