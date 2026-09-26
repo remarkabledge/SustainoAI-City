@@ -1,46 +1,46 @@
 # SustainoAI City
 
-A multi-page static website for a smart sustainable city concept, built with HTML and CSS. The site presents AI and IoT-driven solutions for urban sustainability, including waste management, air quality monitoring, water conservation, and smart infrastructure.
+SustainoAI City is a static multi-page website that presents a smart city concept built around AI and IoT. The site covers solutions like waste segregation, air quality monitoring, water conservation, and smart infrastructure.
 
 ## Pages
 
-- **Home (`index.html`)**: Hero section with a call-to-action and three highlight cards showcasing key solutions.
-- **About (`about.html`)**: Mission statement aligned with UN SDGs, plus mission cards for waste, air, and water.
-- **Features (`features.html`)**: Six smart solution cards with images, covering waste segregation, air quality, parking, water dispensers, irrigation, and street lighting.
-- **News (`news.html`)**: Latest updates and announcements from the project.
-- **Contact (`contact.html`)**: Contact form and team member profiles with IDs and roles.
+- **index.html** : Home page with hero section and three highlight cards.
+- **about.html** : Mission statement tied to UN SDGs, with cards on waste, air, and water.
+- **features.html** : Six solution cards with images, covering waste segregation, air quality, parking, water dispensers, irrigation, and street lighting.
+- **news.html** : Updates and announcements.
+- **contact.html** : Contact form plus team member details.
 
-## Features
+## What's Inside
 
-- **Multi-page navigation**: consistent header and nav bar across all pages, with active-page highlighting.
-- **Responsive layout**: flexbox-based card grids and a mobile media query for smaller screens.
-- **Hero banner**: full-width gradient overlay image with headline and CTA button.
-- **Card-based UI**: reusable card styling for highlights, mission, features, news, and team sections.
-- **Hover animations**: cards lift on hover for a modern interactive feel.
-- **Contact form**: name, email, and message fields with required validation.
-- **Team section**: displays project members with their IDs and roles.
+- Shared header and nav bar across every page, with the current page highlighted.
+- Flexbox card layouts that wrap on smaller screens.
+- Hero banner with a gradient overlay and CTA button.
+- Cards lift slightly on hover.
+- Contact form with name, email, and message fields.
+- Team section listing members with IDs and roles.
 
-## Tech Stack
+## Built With
 
-- **HTML5**: structure and semantic sections
-- **CSS3**: styling, flexbox layout, transitions, and media queries
-- **No JavaScript**: fully static, no build step required
+- HTML5
+- CSS3 (flexbox, transitions, media queries)
+- No JavaScript, no build step
 
-## File Structure
+## Files
+
 
 ## Team
 
-- **Iqra Nadeem** (ID: 19747): Project Manager
-- **Liyan Fadi** (ID: 19757): Lead Developer
-- **Ebtesam Qasem** (ID: 19872): UI/UX Designer
+- Iqra Nadeem (ID: 19747) : Project Manager
+- Liyan Fadi (ID: 19757) : Lead Developer
+- Ebtesam Qasem (ID: 19872) : UI/UX Designer
 
-## How to Use
+## Running It
 
-1. Download or clone the project folder.
-2. Open `index.html` in any modern web browser.
-3. Navigate between pages using the top menu.
+1. Download or clone the folder.
+2. Open index.html in a browser.
+3. Use the top menu to move between pages.
 
 ## Notes
 
-- All feature images are loaded from external URLs.
-- No installation or server is needed. The site runs directly in the browser.
+- Feature images are pulled from external URLs.
+- No server or install needed, it runs straight from the file.
